@@ -1,0 +1,4 @@
+local.browser=CHROME
+chrome.driver.location=D:/testqa/drivers/chromedriver.exe
+firefox.driver.location=C:/testqa/drivers/geckodriver.exe
+ie.driver.location=C:/testqa/drivers/IEDriverServer.exe
