@@ -1,4 +1,4 @@
-package driver.manager;
+package driver;
 
 import java.util.concurrent.TimeUnit;
 

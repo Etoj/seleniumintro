@@ -1,6 +1,6 @@
 package page.objects;
 
-import driver.manager.DriverManager;
+import driver.DriverManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebElement;

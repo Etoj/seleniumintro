@@ -1,4 +1,4 @@
-package driver.manager;
+package driver;
 
 public enum BrowserType {
 

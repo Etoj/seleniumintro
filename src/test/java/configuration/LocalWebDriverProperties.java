@@ -1,6 +1,6 @@
 package configuration;
 
-import driver.manager.BrowserType;
+import driver.BrowserType;
 
 public class LocalWebDriverProperties {
 
