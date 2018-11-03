@@ -34,7 +34,7 @@
                 <version>2.21.0</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>${testSuite}</suiteXmlFile>
+                        <suiteXmlFile>src\test\resources\all_tests_suite.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
@@ -47,7 +47,7 @@
                     <source>1.9</source>
                     <target>1.9</target>
                     <fork>true</fork>
-                    <executable>C:\Program Files\Java\jdk-10.0.1\bin\javac</executable>
+                    <executable>C:\Program Files\Java\jdk-11.0.1\bin\javac</executable>
                 </configuration>
             </plugin>
         </plugins>

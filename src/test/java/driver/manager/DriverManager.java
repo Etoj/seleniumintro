@@ -1,7 +1,5 @@
 package driver.manager;
 
-import driver.manager.BrowserType;
-import driver.manager.BrowserFactory;
 import org.openqa.selenium.WebDriver;
 
 public class DriverManager {
